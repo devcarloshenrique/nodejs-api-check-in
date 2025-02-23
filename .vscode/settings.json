@@ -1,6 +1,7 @@
 {
     "editor.tabSize": 2,
     "editor.insertSpaces": false,
+    "workbench.tree.indent": 12,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
